@@ -18,8 +18,8 @@
 </p>  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joeljoy1237&theme=tokyonight&border_radius=10" height="160"/>
-</p>  
+  <img src="https://streak-stats.demolab.com/?user=Joeljoy1237&theme=tokyonight&border_radius=10" height="160"/>
+</p>
 
 ---
 
