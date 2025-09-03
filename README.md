@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeljoy1237)](https://github.com/Joeljoy1237/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
