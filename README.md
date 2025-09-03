@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Code-Typescript-blue?logo=typescript" />
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black?logo=next.js" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker" />
 </p>  
 
@@ -37,8 +37,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:joel@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joeljoy1237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/joeljoy123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Joeljoy1237"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
 </p>  
 
